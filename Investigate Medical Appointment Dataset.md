@@ -30,7 +30,6 @@ What if that possible to predict someone to no-show an appointment ?
 ​	3- AEROPORTO <br>
 ​	4- ILHAS OCEÂNICAS DE TRINDADE <br>
 ​	5- PARQUE INDUSTRIAL**
-<hr></hr>
 
 
 BY : Mohamed Ahmed Abdullah Mahmoud
